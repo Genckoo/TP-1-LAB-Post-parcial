@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1715443068 source:c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+	"ClaseFecha.h"
+	"ClaseEmpresas.h"
+	"ClaseMunicipios.h"
+	"ClaseArchivoEmpresas.h"
+	"ClaseArchivoMunicipios.h"
+	"submenuempresas.h"
+	"submenumunicipios.h"
+	"submenuConfiguraciones.h"
+
+1715797508 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\clasefecha.h
+	<iostream>
+	<ctime>
+
+1715795551 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\claseempresas.h
+
+1715682891 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\submenuempresas.h
+
+1715795135 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\submenumunicipios.h
+
+1715795551 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\clasemunicipios.h
+
+1715808031 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\clasearchivoempresas.h
+
+1715808477 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\clasearchivomunicipios.h
+
+1715808265 c:\users\sam\desktop\practicas c++\laboratorio 2\trabajo laboratorio 2\submenuconfiguraciones.h
+
+1715461068 source:c:\users\usuario\desktop\trabajo laboratorio 2(1)\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+	"ClaseFecha.h"
+	"ClaseEmpresas.h"
+	"ClaseMunicipios.h"
+	"ClaseArchivoEmpresas.h"
+	"ClaseArchivoMunicipios.h"
+	"submenuempresas.h"
+	"submenumunicipios.h"
+	"submenuConfiguraciones.h"
+
+1715815508 c:\users\usuario\desktop\trabajo laboratorio 2(1)\clasefecha.h
+	<iostream>
+	<ctime>
+
+1715813551 c:\users\usuario\desktop\trabajo laboratorio 2(1)\claseempresas.h
+
+1715813551 c:\users\usuario\desktop\trabajo laboratorio 2(1)\clasemunicipios.h
+
+1715826031 c:\users\usuario\desktop\trabajo laboratorio 2(1)\clasearchivoempresas.h
+
+1715826477 c:\users\usuario\desktop\trabajo laboratorio 2(1)\clasearchivomunicipios.h
+
+1715700891 c:\users\usuario\desktop\trabajo laboratorio 2(1)\submenuempresas.h
+
+1715813135 c:\users\usuario\desktop\trabajo laboratorio 2(1)\submenumunicipios.h
+
+1715828675 c:\users\usuario\desktop\trabajo laboratorio 2(1)\submenuconfiguraciones.h
+
+1715865175 source:c:\users\usuario\desktop\trabajo laboratorio 2\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+	"ClaseFecha.h"
+	"ClaseEmpresas.h"
+	"ClaseMunicipios.h"
+	"ClaseArchivoEmpresas.h"
+	"ClaseArchivoMunicipios.h"
+	"submenuempresas.h"
+	"submenumunicipios.h"
+	"submenuConfiguraciones.h"
+	"reportes.h"
+	"menuReportes.h"
+
+1715815508 c:\users\usuario\desktop\trabajo laboratorio 2\clasefecha.h
+	<iostream>
+	<ctime>
+
+1715865071 c:\users\usuario\desktop\trabajo laboratorio 2\claseempresas.h
+
+1715813551 c:\users\usuario\desktop\trabajo laboratorio 2\clasemunicipios.h
+
+1715826031 c:\users\usuario\desktop\trabajo laboratorio 2\clasearchivoempresas.h
+
+1715826477 c:\users\usuario\desktop\trabajo laboratorio 2\clasearchivomunicipios.h
+
+1715700891 c:\users\usuario\desktop\trabajo laboratorio 2\submenuempresas.h
+
+1715829395 c:\users\usuario\desktop\trabajo laboratorio 2\submenumunicipios.h
+
+1715828675 c:\users\usuario\desktop\trabajo laboratorio 2\submenuconfiguraciones.h
+
+1715866086 c:\users\usuario\desktop\trabajo laboratorio 2\reportes.h
+
+1715865231 c:\users\usuario\desktop\trabajo laboratorio 2\menureportes.h
+
+1715865175 source:c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\main.cpp
+	<cstring>
+	<string>
+	<iostream>
+	"ClaseFecha.h"
+	"ClaseEmpresas.h"
+	"ClaseMunicipios.h"
+	"ClaseArchivoEmpresas.h"
+	"ClaseArchivoMunicipios.h"
+	"submenuempresas.h"
+	"submenumunicipios.h"
+	"submenuConfiguraciones.h"
+	"reportes.h"
+	"menuReportes.h"
+
+1715815508 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\clasefecha.h
+	<iostream>
+	<ctime>
+
+1715865071 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\claseempresas.h
+
+1715813551 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\clasemunicipios.h
+
+1715826031 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\clasearchivoempresas.h
+
+1715826477 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\clasearchivomunicipios.h
+
+1715700891 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\submenuempresas.h
+
+1715829395 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\submenumunicipios.h
+
+1715828675 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\submenuconfiguraciones.h
+
+1715866086 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\reportes.h
+
+1715865231 c:\users\usuario\desktop\todo labo\trabajo laboratorio 2\menureportes.h
+
